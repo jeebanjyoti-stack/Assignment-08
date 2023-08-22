@@ -1,0 +1,13 @@
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\bin\Debug\Assignment_08.exe.config
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\bin\Debug\Assignment_08.exe
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\bin\Debug\Assignment_08.pdb
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\bin\Debug\EntityFramework.dll
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\bin\Debug\EntityFramework.SqlServer.dll
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\bin\Debug\EntityFramework.xml
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\bin\Debug\EntityFramework.SqlServer.xml
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\obj\Debug\Assignment_08.csproj.AssemblyReference.cache
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\obj\Debug\Assignment_08.csproj.SuggestedBindingRedirects.cache
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\obj\Debug\Assignment_08.csproj.CoreCompileInputs.cache
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\obj\Debug\Assignment_08.csproj.CopyComplete
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\obj\Debug\Assignment_08.exe
+D:\SQL Server Assignment\Day-8\Assignment_08\Assignment_08\obj\Debug\Assignment_08.pdb
